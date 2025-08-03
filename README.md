@@ -26,6 +26,9 @@ python main.py
 
 ## ⚙️ Customization
 You can adjust the timer durations by changing the constants at the top of main.py:
+
 WORK_MIN = 25
+
 SHORT_BREAK_MIN = 5
+
 LONG_BREAK_MIN = 20
