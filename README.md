@@ -2,7 +2,6 @@
 
 A simple, customizable Pomodoro timer built with Python's `tkinter` GUI module. This timer follows the Pomodoro Technique—a time management method that uses work intervals separated by short and long breaks to boost productivity.
 
----
 
 ## ⏱ Features
 
@@ -14,16 +13,6 @@ A simple, customizable Pomodoro timer built with Python's `tkinter` GUI module. 
 - Countdown timer with visual updates
 - Tomato-themed interface for fun!
 
----
-
-## 📁 Project Structure
-
-.
-├── main.py            # Main application script
-├── tomato.png         # Tomato image used in the timer GUI
-
-
----
 
 ## 🚀 How to Run
 
